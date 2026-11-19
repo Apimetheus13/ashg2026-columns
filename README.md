@@ -2,7 +2,7 @@
 
 這個網站收錄個人分享的專欄，版面為每日早報。最新一批的頭條與更新，集中在頁面最上方、標有日期的早報區，並以標題連結清單列出；其後依序是 GenomeWeb Daily News 與 ASHG 2026 兩個區塊，兩者分開。Daily News 含「感染症與照護點檢測」小節。
 
-11/19 早報（臺北時間）取材自 11/18 的 Headlines from AMP 2026 與 Research & Tools。兩封電子報去掉 Caris 的 MI Clarity 廣告後有 16 則：新增專欄 122–129 共 8 篇，更新既有第 19、116、82 篇，另外 5 則本站已有全文，只在早報目錄標出。Rady 的青少年快速全基因體、AMP 的 ESR1 壁報、RAS 廠商場次與 Astromech 收購 Form Bio 沿用第 101、119、111、121 篇。新加坡 45 萬人全基因體的 11 月 17 日稿沒有新的一手人數，沿用第 40 篇。Element 的 VITARI 場次補進第 19 篇，Roche 的 HLA 與 CGP 補進第 116 篇，GeneDx 的換帥補進第 82 篇。
+11/19 早報（臺北時間）取材自 11/18 的 Headlines from AMP 2026 與 Research & Tools。兩封電子報去掉 Caris 的 MI Clarity 廣告後有 16 則：新增專欄 122–129 共 8 篇，更新既有第 19、116、82、40 篇，另外 4 則本站已有全文，只在早報目錄標出。Rady 的青少年快速全基因體、AMP 的 ESR1 壁報、RAS 廠商場次與 Astromech 收購 Form Bio 沿用第 101、119、111、121 篇。新加坡 45 萬人已在第 40 篇補上 11/17 報導：GenomeWeb 付費全文未讀，另補 Lucence、QIAGEN、PRECISE 網頁、海峽時報與衛生部演講裡對得上的時程、收案與經費代碼；合約金額與個人結果回饋仍未查證。Element 的 VITARI 場次補進第 19 篇，Roche 的 HLA 與 CGP 補進第 116 篇，GeneDx 的換帥補進第 82 篇。
 
 11/18 早報（臺北時間）取材自 11/17 的 Daily News、Liquid Biopsy Bulletin 與 Research & Tools。三封電子報去掉廣告與跨報重複後有 14 則：新增專欄 115–121 共 7 篇，更新既有第 65 篇與第 66 篇，另外 5 則本站已有全文，只在早報目錄標出。Illumina 裁員同時出現在 Daily News 與 Research & Tools，算一則。IQVA Laboratories、Foundation Medicine 研討會與 Mimix Geni 參考標準品是廣告，不寫。Freenome、Guardant 第三季、Natera 換帥、Caris 全年財測與 AMP 的 RAS 場次沿用第 88、66、65、59、111 篇。Guardant 可轉換公司債補進第 66 篇，Natera 與 Incyte 的第二期補進第 65 篇。
 
