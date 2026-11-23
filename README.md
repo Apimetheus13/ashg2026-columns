@@ -2,6 +2,8 @@
 
 這個網站收錄個人分享的專欄，版面為每日早報。最新一批的頭條與更新，集中在頁面最上方、標有日期的早報區，並以標題連結清單列出；其後依序是 GenomeWeb Daily News 與 ASHG 2026 兩個區塊，兩者分開。Daily News 含「感染症與照護點檢測」小節。
 
+11/23 早報另收當日 Weekly Roundup 的四則 Top Trending，接在既有的 11/23 段落，沒有另開一天。Illumina 裁員與 GeneDx 換帥沿用第 115、82 篇：EDD 每日 WARN 表頭改到 11 月 18 日，聖地牙哥仍是同一列 51 人；GeneDx（CIK 0001818331）與 Quanterix（CIK 0001503274）的 8-K 都停在 11 月 18 日。新增第 143 篇（Caris 的集體訴訟名冊與勒索追蹤站點名，訴狀未讀）與第 144 篇（NCI 與 FNIH 的治療性癌症疫苗）。GenomeWeb 付費全文未讀。
+
 11/23 早報（臺北時間）取材自 11/20 的週五電子報，含頭條、研究與工具、感染症、定序、癌症研究與腫瘤學。去掉 Illumina TruPath 與 Roche AXELIOS 1 兩則廣告、並去掉與既有專欄重複的 4 則之後，新增專欄 130–142 共 13 篇，沒有改寫舊篇。阿肯色兒童醫院的麻疹 RT-PCR、GeneDx 換帥、Element 的 VITARI、新加坡 45 萬人全基因體沿用第 125、82、19、40 篇：AMP 場次、SEC 8-K、PRECISE 網頁與 11 月 18 日的轉述稿都沒有新的一手數字。GenomeWeb 付費全文未讀。
 
 11/19 早報（臺北時間）取材自 11/18 的 Headlines from AMP 2026 與 Research & Tools。兩封電子報去掉 Caris 的 MI Clarity 廣告後有 16 則：新增專欄 122–129 共 8 篇，更新既有第 19、116、82、40 篇，另外 4 則本站已有全文，只在早報目錄標出。Rady 的青少年快速全基因體、AMP 的 ESR1 壁報、RAS 廠商場次與 Astromech 收購 Form Bio 沿用第 101、119、111、121 篇。新加坡 45 萬人已在第 40 篇補上 11/17 報導：GenomeWeb 付費全文未讀，另補 Lucence、QIAGEN、PRECISE 網頁、海峽時報與衛生部演講裡對得上的時程、收案與經費代碼；合約金額與個人結果回饋仍未查證。Element 的 VITARI 場次補進第 19 篇，Roche 的 HLA 與 CGP 補進第 116 篇，GeneDx 的換帥補進第 82 篇。
