@@ -327,4 +327,51 @@
     readUrl();
     apply(false);
   });
+
+  document.querySelectorAll(".shareopen").forEach(function (b) {
+    if (!navigator.share) return;
+    b.hidden = false;
+    b.addEventListener("click", function () {
+      var url = b.getAttribute("data-share");
+      navigator.share({ title: document.title, url: url }).catch(function () {});
+    });
+  });
+  document.querySelectorAll(".sharebtn").forEach(function (b) {
+    if (b.classList.contains("shareopen")) return;
+    b.addEventListener("click", function () {
+      var url = b.getAttribute("data-share");
+      var prev = b.textContent;
+      var done = function () {
+        b.textContent = "已複製";
+        setTimeout(function () { b.textContent = prev; }, 1600);
+      };
+      var legacy = function () {
+        var ta = document.createElement("textarea");
+        ta.value = url;
+        ta.setAttribute("readonly", "");
+        ta.style.position = "fixed";
+        ta.style.top = "0";
+        ta.style.left = "0";
+        ta.style.width = "1px";
+        ta.style.height = "1px";
+        ta.style.opacity = "0";
+        document.body.appendChild(ta);
+        ta.focus();
+        ta.select();
+        var copied = false;
+        try { copied = document.execCommand("copy"); } catch (e) { copied = false; }
+        document.body.removeChild(ta);
+        return copied;
+      };
+      var finish = function (ok) {
+        if (ok) done();
+        else window.prompt("複製這個連結", url);
+      };
+      if (navigator.clipboard && navigator.clipboard.writeText) {
+        navigator.clipboard.writeText(url).then(function () { finish(true); }, function () { finish(legacy()); });
+      } else {
+        finish(legacy());
+      }
+    });
+  });
 })();

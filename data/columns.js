@@ -22,6 +22,18 @@ window.COLUMN_DATA = {
   ],
   "days": [
     {
+      "date": "11/25",
+      "weekday": "週三",
+      "groups": [
+        {
+          "name": "最新頭條",
+          "ids": [
+            "c145"
+          ]
+        }
+      ]
+    },
+    {
       "date": "11/23",
       "weekday": "週一",
       "groups": [
@@ -1037,6 +1049,11 @@ window.COLUMN_DATA = {
       "腫瘤檢測",
       "AI",
       "法規"
+    ],
+    "c145": [
+      "併購募資",
+      "財報",
+      "定序平台"
     ]
   }
 };
