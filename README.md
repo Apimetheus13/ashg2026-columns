@@ -2,6 +2,8 @@
 
 這個網站收錄個人分享的專欄，版面為每日早報。最新一批的頭條與更新，集中在頁面最上方、標有日期的早報區，並以標題連結清單列出；其後依序是 GenomeWeb Daily News 與 ASHG 2026 兩個區塊，兩者分開。Daily News 含「感染症與照護點檢測」小節。
 
+11/26 早報新增第 146 篇。Ultima Genomics 與精創生技（PDC4PM）於 12 月 12 日在臺北寒舍喜來登合辦 BioAI and Genomics Symposium。Solaris 2.0 Max 的單片 200 億 reads、30x 基因體 60 美元、單機一年 6 萬個 30x，仍是廠商宣稱，尚未有第三方獨立驗證。文中保留講者履歷的直接對照、精創與台基盟的區分、PMIA 頭銜和公開報導的落差，以及進場要聽的三件事。獨立分享頁是 `columns/146-ultima-bioai-taipei.html`。
+
 11/25 早報新增第 145 篇。Microba Life Sciences（ASX:MAP）於臺北時間 11 月 25 日上午 7 時 55 分宣布進入自願管理。核心檢測營收連續 13 季成長，9 月 30 日現金約只夠 1.02 季。獨立分享頁是 `columns/145-microba.html`。
 
 11/23 早報另收當日 Weekly Roundup 的四則 Top Trending，接在既有的 11/23 段落，沒有另開一天。Illumina 裁員與 GeneDx 換帥沿用第 115、82 篇：EDD 每日 WARN 表頭改到 11 月 18 日，聖地牙哥仍是同一列 51 人；GeneDx（CIK 0001818331）與 Quanterix（CIK 0001503274）的 8-K 都停在 11 月 18 日。新增第 143 篇（Caris 的集體訴訟名冊與勒索追蹤站點名，訴狀未讀）與第 144 篇（NCI 與 FNIH 的治療性癌症疫苗）。GenomeWeb 付費全文未讀。
@@ -36,7 +38,7 @@
 
 標籤詞彙：定序平台、液態切片、伴隨診斷、族群基因體、併購募資、法規、AMP2026、ASHG2026、財報、感染症、腫瘤檢測、罕病診斷、基因編輯、蛋白體、人事、AI、藥物基因體、產前。
 
-更新於 2026-11-25。這個日期是儲存庫內容的日期；線上頁面要等變更合併進 `main`、由 GitHub Pages 重新發布後才會更換。
+更新於 2026-11-26。這個日期是儲存庫內容的日期；線上頁面要等變更合併進 `main`、由 GitHub Pages 重新發布後才會更換。
 
 線上閱讀：<https://apimetheus13.github.io/ashg2026-columns/>
 
